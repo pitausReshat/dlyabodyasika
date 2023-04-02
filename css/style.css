@@ -1,0 +1,26 @@
+.button{
+  padding: 5px;
+  margin: 15px;
+  background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+  border: 0px;
+  border-radius: 3px;
+  color: aliceblue;
+  width: 100px;
+  height: 40px;
+}
+
+.input{
+  width: 200px;
+  height: 25px;
+}
+
+.label{
+  padding: 10px;
+  font-size: 30px;
+}
+
+.li{
+  font-size: 30px;
+  text-decoration: none;
+  padding-top: 5px;
+}
